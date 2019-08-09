@@ -2,13 +2,6 @@
   name: deskLEE
   url: https://github.com/deskLEE
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
 
 - sitename: 微博
   name: 风吹罅x与y的0932星座
@@ -18,10 +11,3 @@
   name: deskLEE
   url: https://desklee.github.io/
 
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
-
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
