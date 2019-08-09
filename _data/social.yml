@@ -1,6 +1,6 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: deskLEE
+  url: https://github.com/deskLEE
 
 - sitename: 掘金
   name: mzlogin
@@ -10,13 +10,13 @@
   name: mazhuang
   url: https://www.linkedin.com/in/mazhuang
 
-- sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
-
 - sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+  name: 风吹罅x与y的0932星座
+  url: https://weibo.com/5724584932/profile?topnav=1&wvr=6&is_all=1
+
+- sitename: 博客
+  name: deskLEE
+  url: https://desklee.github.io/
 
 - sitename: 知乎
   name: mzlogin
