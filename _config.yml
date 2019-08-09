@@ -96,14 +96,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: deskLEE
-    repo: https://desklee.github.io/
+    repo: deskLEE.github.io
     oauth:
         client_id: 613c1ec5295a4d216c68
         client_secret: eb566284d4835235e5e492005df2124fbf005c8f
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: deskLEE
-    repo: https://desklee.github.io/
+    repo: deskLEE.github.io
     clientID: 66dab36729fabaa0ced4
     clientSecret: da2c0f355a0cedaa0d6aa7f24e12c83a2333c37c
 # 在使用其它评论组件时可点击显示 Disqus
