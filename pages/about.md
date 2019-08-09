@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 学习可以提高自己
+keywords: deskLEE, 胡枝子
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+小白
 
-仰慕「优雅编码的艺术」。
+微电子专业 电子信息工程专业。
 
-坚信熟能生巧，努力改变人生。
+提升自我的能力。
 
 ## 联系
 
