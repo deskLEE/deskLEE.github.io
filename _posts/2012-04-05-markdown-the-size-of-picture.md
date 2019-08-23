@@ -10,7 +10,7 @@ keywords: markdown
 插入一张图片
 ```
 
-![BingWallpaper-2019-04-21](E:\git\deskLEE.github.io\images\blog\BingWallpaper-2019-04-21.jpg)
+![BingWallpaper-2019-04-21](BingWallpaper-2019-04-21.jpg)
 
 
 
@@ -20,4 +20,4 @@ keywords: markdown
 
 
 
-<img src="E:\git\deskLEE.github.io\images\blog\BingWallpaper-2019-04-21.jpg" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center>
+<img src="BingWallpaper-2019-04-21.jpg" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center>
