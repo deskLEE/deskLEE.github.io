@@ -10,7 +10,7 @@ keywords: markdown
 插入一张图片
 ```
 
-![https://github.com/deskLEE/deskLEE.github.io/blob/master/_posts/BingWallpaper-2019-04-21.jpg](BingWallpaper-2019-04-21.jpg)
+![.\images\posts\BingWallpaper-2019-04-21.png](BingWallpaper-2019-04-21.jpg)
 
 
 
@@ -20,7 +20,7 @@ keywords: markdown
 
 
 
-<img src="E:\git\deskLEE.github.io\_posts\BingWallpaper-2019-04-21.jpg" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center><img src="E:\git\deskLEE.github.io\_posts\BingWallpaper-2019-04-21.jpg" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center><img src="E:\git\deskLEE.github.io\_posts\BingWallpaper-2019-04-21.jpg" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center>
+<img src=".\images\posts\BingWallpaper-2019-04-21.png" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center><img src="E:\git\deskLEE.github.io\images\posts\BingWallpaper-2019-04-21.png" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center><img src="E:\git\deskLEE.github.io\images\posts\BingWallpaper-2019-04-21.png" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center>
 
 
 
