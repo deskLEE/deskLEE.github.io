@@ -16,9 +16,7 @@ keywords: markdown
 对图片大小进行修改
 ```
 
-
-
-![]<img src="/images/posts/BingWallpaper-2019-04-21.png" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center>![]<img src="/images/posts/BingWallpaper-2019-04-21.png" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center>![]<img src="/images/posts/BingWallpaper-2019-04-21.png" width="400" height="300" alt="BingWallpaper-2019-04-21" align=center>
+![](/images/posts/BingWallpaper-2019-04-21.png)![](/images/posts/BingWallpaper-2019-04-21.png)
 
 
 
