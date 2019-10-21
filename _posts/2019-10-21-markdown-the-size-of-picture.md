@@ -18,8 +18,6 @@ keywords: markdown
 
 ![](/images/posts/BingWallpaper-2019-04-21.png)![](/images/posts/BingWallpaper-2019-04-21.png)
 
-
-
 ```
 这个博客现在有一点问题，后面我再找时间进行修改，现在没得时间。
 ```
