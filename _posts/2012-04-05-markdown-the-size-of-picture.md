@@ -10,9 +10,7 @@ keywords: markdown
 插入一张图片
 ```
 
-![/images/posts/BingWallpaper-2019-04-21.png](BingWallpaper-2019-04-21.jpg)
-
-
+![](/images/posts/BingWallpaper-2019-04-21.png)
 
 ```
 对图片大小进行修改
