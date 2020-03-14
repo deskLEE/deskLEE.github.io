@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 《Digital Integrated Circuits》读后感(一)
-categories: Blog
+categories: digital integrated circuits
 description: The device Chapter 3
-keywords: 2020, 寒假
+keywords: digital integrated circuits
 ---
 
 ### Chapter 3  The device__
