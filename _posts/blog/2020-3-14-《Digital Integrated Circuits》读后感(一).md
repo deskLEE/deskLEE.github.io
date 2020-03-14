@@ -6,7 +6,7 @@ description: The device Chapter 3
 keywords: 2020, 寒假
 ---
 
-Chapter 3  The device__
+### Chapter 3  The device__
 
 _1) The Diode_
 
@@ -32,9 +32,13 @@ a. 	four terminal device	gate	source	drain	body	NMOS	PMOS
 
 strong inversion	threshold voltage $V_T$
 
-$$\begin{cases}V_T = V_{T0}+\gamma(\sqrt{|-2\phi_F+V_{SB}|}-\sqrt{|-2\phi_F|}) \\ \phi_F = -\phi_TIn(\frac{N_A}{n_i})\end{cases}$$ $\gamma$ body-effect coefficient 
+$$\begin{cases}V_T = V_{T0}+\gamma(\sqrt{|-2\phi_F+V_{SB}|}-\sqrt{|-2\phi_F|}) \\ \phi_F = -\phi_TIn(\frac{N_A}{n_i})\end{cases}$$ 
+
+$\gamma$ body-effect coefficient 
 
 b. 	$V_{GS}>V_T$ 
+
+$x$ along the channel, the voltage is $V(x)$. gate-to-channel voltage at the point equals $V_{GS}-V(x)$.
 
 $$Q_i(x) = -C_{ox}[V_{GS}-V(x)-V_T]$$   $C_{ox} = \frac {\epsilon_{ox}} {t_{ox}}$ 
 
