@@ -35,7 +35,6 @@ strong inversion	threshold voltage $V_T$
 $$\begin{cases}V_T = V_{T0}+\gamma(\sqrt{|-2\phi_F+V_{SB}|}-\sqrt{|-2\phi_F|}) \\ \phi_F = -\phi_TIn(\frac{N_A}{n_i})\end{cases}$$ $\gamma$ body-effect coefficient 
 
 b. 	$V_{GS}>V_T$ 
- 
 
 $$Q_i(x) = -C_{ox}[V_{GS}-V(x)-V_T]$$   $C_{ox} = \frac {\epsilon_{ox}} {t_{ox}}$ 
 
