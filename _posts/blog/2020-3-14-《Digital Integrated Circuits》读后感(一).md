@@ -56,7 +56,7 @@ long-channel transistors
 
 e.	 velocity saturation
 
-short-channel devices	velocity saturation effect	saturation velocity $\upsilon_{sat}$  --  electrical  field$\epsilon_c$
+short-channel devices	velocity saturation effect	saturation velocity $\upsilon_{sat}$  electrical  field$\epsilon_c$
 
 $$\upsilon_n = -\mu_n \epsilon(x)$$  velocity-saturation effects are hence less pronounced in PMOS transistors
 
